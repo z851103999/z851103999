@@ -2,8 +2,8 @@
 
 
 Hi there
-- 🔭 I’m currently working on web ...
-- 🌱 I’m currently learning Javascript TypeScript Go ...
+- 🔭 I’m currently working on front-end engineer
+- 🌱 I’m currently learning Javascript TypeScript node Go
 
 #### Languages
 
